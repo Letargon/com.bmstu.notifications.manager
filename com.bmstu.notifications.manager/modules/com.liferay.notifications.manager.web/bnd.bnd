@@ -1,4 +1,0 @@
-Bundle-Name: com.liferay.notifications.manager.web
-Bundle-SymbolicName: com.liferay.notifications.manager.web
-Bundle-Version: 1.0.0
-Export-Package: com.liferay.notifications.manager.web.constants
